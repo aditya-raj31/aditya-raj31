@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
+   <h1>Hi, Aditya Raj here! </h1>
+   <p align="center">
+  <img width="300" src="https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47a387tsd8zxy1hw368egf3m418r0r09bu0itqy0ba&rid=giphy.gif&ct=g">
+</p>
 
-<!--
-**aditya-raj31/aditya-raj31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am a Web developer, Java Programmer, and DevOps enthusiast🚀!!
+
+
+
+
+
+
+
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aditya-raj31&theme=midnight-purple)](https://git.io/streak-stats)
+   
+   
+##   GitHub Stats📊
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-raj31&theme=radical)
+   
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-raj31&theme=moonlight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-raj31&theme=moonlight)
+
+
+
+
+##   <i>Follow me:</i><br>
+      
+   
+
+<a href="https://www.linkedin.com/in/sheetal05/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/_sheetal05__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/sheetal70704521" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="mailto:sheetalshreya05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
+
+   
+   
+
+<a href="https://leetcode.com/sheetalshreya05/" target="_blank"><img src=	"https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" img height="21" alt="Leetcode"></a>
+
+   
+</div>
+
+  
+  
+   ##
