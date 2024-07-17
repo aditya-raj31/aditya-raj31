@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi, Aditya Raj here! </h1>
    <p align="center">
-  <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG96NnBsemR0aWN5MG9hM3I5OHV4cWphM2ppMzl1NGMwdWRzNDhyMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Ig36GBEnn9LEUTzorR/giphy.gif">
+  <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG96NnBsemR0aWN5MG9hM3I5OHV4cWphM2ppMzl1NGMwdWRzNDhyMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KBPRW0rG4EuLxwVtWs/giphy.gif">
 </p>
 
  
