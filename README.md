@@ -38,7 +38,7 @@
 <a href="https://www.instagram.com/adityaraj3554/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://x.com/adityaraj_3172" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="mailto:aditya70797@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.geeksforgeeks.org/user/adityaqg8v/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/GFG?style=flat-square&logo=GFG&logoColor=white" alt="geeksforgeeks"></a>
+<a href="https://www.geeksforgeeks.org/user/adityaqg8v/" target="_blank"><img src="https://img.shields.io/badge/GFG?style=flat-square&logo=GFG&logoColor=white" alt="geeksforgeeks"></a>
 
    
    
